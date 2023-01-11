@@ -1,0 +1,82 @@
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Properties.Resources.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.config
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.pdb
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.pdb
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminformui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.CopyComplete
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminloginform.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.admincontrolui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Creatroomui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Form1.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.mealcontrolui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.accountformui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.detailsformui.resources
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.manifest
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.application
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe.manifest
+C:\Users\USER\source\repos\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.application
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.config
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.manifest
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.application
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.pdb
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.dll
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Google.Protobuf.dll
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\BouncyCastle.Crypto.dll
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Ubiety.Dns.Core.dll
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Renci.SshNet.dll
+E:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.xml
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csprojAssemblyReference.cache
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.accountformui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.admincontrolui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminformui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminloginform.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Creatroomui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.detailsformui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Form1.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.mealcontrolui.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Properties.Resources.resources
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.GenerateResource.cache
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe.manifest
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.application
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.CopyComplete
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe
+E:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.pdb
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.config
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe.manifest
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.application
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.exe
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\mess_management_system_final.pdb
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.dll
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Google.Protobuf.dll
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\BouncyCastle.Crypto.dll
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Ubiety.Dns.Core.dll
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\Renci.SshNet.dll
+D:\my project list\mess_management_system_final\mess_management_system_final\bin\Debug\MySql.Data.xml
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csprojAssemblyReference.cache
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.accountformui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.admincontrolui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminformui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.adminloginform.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Creatroomui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.detailsformui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Form1.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.mealcontrolui.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.Properties.Resources.resources
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.GenerateResource.cache
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.CoreCompileInputs.cache
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe.manifest
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.application
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.csproj.CopyComplete
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.exe
+D:\my project list\mess_management_system_final\mess_management_system_final\obj\Debug\mess_management_system_final.pdb
